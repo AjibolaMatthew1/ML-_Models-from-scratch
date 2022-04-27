@@ -22,4 +22,6 @@ I would be using the visual studio code IDE to carry out this project, although 
 
 The first model would be the **K-Nearest Neighbours** which can be found in the [K-Nearest Neighbors](./K_Nearest_Neighbors.py)
 The K-Nearest Neighbor is best described with the familiar quote "Birds of the same feathers flock together".
-It is a supervised machine learning algorithm that can be used for classification problems as well as regression problems
+It is a supervised machine learning algorithm that can be used for classification problems as well as regression problems.
+Euclidean distances between test data points and training data points are calculated and the ones which are closest are used. A diagram explaining the concept is below!
+![KNN.jpg](https://docsdrive.com/images/ansinet/jas/2010/fig4-2k10-1841-1858.gif)
