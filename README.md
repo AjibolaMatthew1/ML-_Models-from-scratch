@@ -8,7 +8,16 @@ There are two main goals for this repository. They are:
 
 # Dependencies
 Numpy is the most essential tool that will be used. To get it up and running: 
-`import numpy as np`
+
+```
+# if installed already on the machine. If ModuleNotFoundError comes up then you would have to intall it.
+import numpy as np
+
+#If not already installed, on your terminal, input the command below.
+pip install numpy
+```
+
+
 I would be using the visual studio code IDE to carry out this project, although anyone of your choosing is most welcome.
 
 The first model would be the **K-Nearest Neighbours** which can be found in the [K-Nearest Neighbors](./K_Nearest_Neighbors.py)
