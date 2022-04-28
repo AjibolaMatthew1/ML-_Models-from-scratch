@@ -27,3 +27,16 @@ Euclidean distances between test data points and training data points are calcul
 
 -------
 ![KNN.jpg](https://docsdrive.com/images/ansinet/jas/2010/fig4-2k10-1841-1858.gif)
+
+-------
+
+The second model would be the **Simple Linear Regression** which can be found in the [Linear Regression](./linear_regression.py)
+The Simple linear regression is an easy model. It is governed by the equation below:
+
+![Linear Regression Image](https://jalammar.github.io/images/NNs_formula.png)
+
+
+The model works because of the gradient descent algorith which helps it updates the weights and biases that in turns helps the model to reduce the error. 
+
+
+![Gradient Descent](https://www.oreilly.com/library/view/neural-networks-with/9781788397872/assets/56f6855e-0497-4a4e-8825-85c210e3420c.jpg)
