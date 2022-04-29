@@ -40,3 +40,14 @@ The model works because of the gradient descent algorith which helps it updates 
 
 
 ![Gradient Descent](https://www.oreilly.com/library/view/neural-networks-with/9781788397872/assets/56f6855e-0497-4a4e-8825-85c210e3420c.jpg)
+
+------
+
+This function is much like the linear regression function.
+The difference is that the logistic regression is for classification problems. Usually used for the binary classification where there are only two possibilities of actions to choose from. 
+
+It uses the linear function Y = Wx + b, but then goes on to be passed through the sigmoid activation function. After which gradient descent is performed to update the weigths and biases. 
+
+The image below shows the distinction between the two functions (Linear regression and Logistic Regression)
+
+![Logistic Regression vs Linear Regression](https://www.saedsayad.com/images/LogReg_1.png)
