@@ -27,7 +27,7 @@ class NaiveBayes:
 
         for idx, c in enumerate(self._classes):
             prior = np.log(self._priors[idx])
-            class_conditional = np.sum(np.log(self._pdf)(idx, X))
+            class_conditional = np.sum(np.log(self._pdf(idx, X))
             posterior = prior + class_conditional
             posteriors.append(posterior)
         return self._classes[np.argmax(posteriors)]
