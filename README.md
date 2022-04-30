@@ -36,7 +36,7 @@ The Simple linear regression is an easy model. It is governed by the equation be
 ![Linear Regression Image](https://jalammar.github.io/images/NNs_formula.png)
 
 
-The model works because of the gradient descent algorith which helps it updates the weights and biases that in turns helps the model to reduce the error. 
+The model works because of the gradient descent algorithm which helps it updates the weights and biases that in turns helps the model to reduce the error. 
 
 
 ![Gradient Descent](https://www.oreilly.com/library/view/neural-networks-with/9781788397872/assets/56f6855e-0497-4a4e-8825-85c210e3420c.jpg)
@@ -51,3 +51,10 @@ It uses the linear function Y = Wx + b, but then goes on to be passed through th
 The image below shows the distinction between the two functions (Linear regression and Logistic Regression)
 
 ![Logistic Regression vs Linear Regression](https://www.saedsayad.com/images/LogReg_1.png)
+
+------
+
+The next model is the **Naive Bayes** which can be found in the [Naive Bayes](./naive_bayes.py)
+The formula employed in building it is below:
+
+![Naive Bayes](https://miro.medium.com/max/1200/1*39U1Ln3tSdFqsfQy6ndxOA.png)
