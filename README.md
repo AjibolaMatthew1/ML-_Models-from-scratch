@@ -64,3 +64,9 @@ The formula employed in building it is below:
 The next model is the **Perceptron** a.k.a the single layered neural network. The process implemented can be summed up in the image below.
 
 ![perceptron_image](https://miro.medium.com/max/639/1*_Epn1FopggsgvwgyDA4o8w.png)
+
+------
+
+The next model is the **Support Vector Machine** a.k.a SVM
+
+![SVM](https://static.javatpoint.com/tutorial/machine-learning/images/support-vector-machine-algorithm.png)
